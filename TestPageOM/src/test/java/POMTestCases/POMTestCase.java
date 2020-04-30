@@ -16,6 +16,7 @@ public class POMTestCase {
 		 driver.get("http://demosite.center/wordpress/wp-login.php");
 		 TestPom TP = new TestPom(driver);
 		 TP.login("Admin", "demo123");
+		//testing
 	}
 	
 }
