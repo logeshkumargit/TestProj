@@ -21,20 +21,4 @@ public void login(String Uid, String pass)
 	driver.findElement(password).sendKeys(pass);
 	driver.findElement(Login).click();
 }
-
-//public void typeUsername(String uid)
-//{
-//	driver.findElement(username).sendKeys(uid);
-//}
-//
-//public void typePassword(String pass)
-//{
-//	driver.findElement(password).sendKeys(pass);
-//}
-//
-//public void clickLogin()
-//{
-//	driver.findElement(Login).click();
-//}
-
 }
