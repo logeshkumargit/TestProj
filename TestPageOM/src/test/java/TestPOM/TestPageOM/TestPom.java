@@ -20,5 +20,7 @@ public void login(String Uid, String pass)
 	driver.findElement(username).sendKeys(Uid);
 	driver.findElement(password).sendKeys(pass);
 	driver.findElement(Login).click();
+	
+	//Testing
 }
 }
