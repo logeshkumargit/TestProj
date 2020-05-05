@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="22330" started-at="2020-04-29T19:26:17 IST" finished-at="2020-04-29T19:26:39 IST">
+  <suite name="Default suite" duration-ms="16479" started-at="2020-04-30T18:06:18 IST" finished-at="2020-04-30T18:06:34 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="22330" started-at="2020-04-29T19:26:17 IST" finished-at="2020-04-29T19:26:39 IST">
+    <test name="Default test" duration-ms="16479" started-at="2020-04-30T18:06:18 IST" finished-at="2020-04-30T18:06:34 IST">
       <class name="POMTestCases.POMTestCase">
-        <test-method status="PASS" signature="verifyvalidLogin()[pri:0, instance:POMTestCases.POMTestCase@49fc609f]" name="verifyvalidLogin" duration-ms="22268" started-at="2020-04-29T19:26:17 IST" finished-at="2020-04-29T19:26:39 IST">
+        <test-method status="PASS" signature="verifyvalidLogin()[pri:0, instance:POMTestCases.POMTestCase@49fc609f]" name="verifyvalidLogin" duration-ms="16422" started-at="2020-04-30T18:06:18 IST" finished-at="2020-04-30T18:06:34 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyvalidLogin -->
